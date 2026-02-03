@@ -12,31 +12,32 @@ System-oriented applications & tools.
 
 ## GitHub Stats
 
-<!-- GitHub Stats 区域：使用表格布局保证稳定性 -->
+<!-- 主统计图：GitHub Readme Stats -->
 <table align="center" width="100%" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <!-- 左侧：主统计图 -->
     <td align="center" width="50%" style="border: none; padding: 10px;">
-      <a href="https://github.com/2560925365-ux" target="_blank">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=2560925365-ux&show_icons=false&theme=light&hide_border=true&count_private=true"
-          alt="GitHub Stats"
-          style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; background-color: #fff; max-width: 100%; height: auto; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"
-        />
-      </a>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=2560925365-ux&show_icons=false&theme=light&hide_border=true&count_private=true"
+        alt="GitHub Stats"
+        style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; background-color: #fff; max-width: 100%; height: auto; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"
+      />
     </td>
-    <!-- 右侧：语言统计图 -->
     <td align="center" width="50%" style="border: none; padding: 10px;">
-      <a href="https://github.com/2560925365-ux" target="_blank">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=2560925365-ux&layout=compact&theme=light&hide_border=true"
-          alt="Top Languages"
-          style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; background-color: #fff; max-width: 100%; height: auto; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"
-        />
-      </a>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=2560925365-ux&layout=compact&theme=light&hide_border=true"
+        alt="Top Languages"
+        style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; background-color: #fff; max-width: 100%; height: auto; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"
+      />
     </td>
   </tr>
 </table>
+
+<!-- 兜底徽章：GitHub 官方统计（稳定可靠） -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/2560925365-ux?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/2560925365-ux?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/repositories/2560925365-ux?style=social" alt="Repositories" />
+</p>
 
 ---
 
