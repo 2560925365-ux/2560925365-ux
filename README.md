@@ -10,19 +10,33 @@ System-oriented applications & tools.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/2560925365-ux?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=2560925365-ux&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&card_width=500" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/2560925365-ux?tab=stars">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2560925365-ux&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&card_width=500" alt="Top Languages" />
-</a>
-
-</div>
+<!-- GitHub Stats 区域：使用表格布局保证稳定性 -->
+<table align="center" width="100%" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- 左侧：主统计图 -->
+    <td align="center" width="50%" style="border: none; padding: 10px;">
+      <a href="https://github.com/2560925365-ux" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=2560925365-ux&show_icons=false&theme=light&hide_border=true&count_private=true"
+          alt="GitHub Stats"
+          style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; background-color: #fff; max-width: 100%; height: auto; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"
+        />
+      </a>
+    </td>
+    <!-- 右侧：语言统计图 -->
+    <td align="center" width="50%" style="border: none; padding: 10px;">
+      <a href="https://github.com/2560925365-ux" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=2560925365-ux&layout=compact&theme=light&hide_border=true"
+          alt="Top Languages"
+          style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; background-color: #fff; max-width: 100%; height: auto; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
