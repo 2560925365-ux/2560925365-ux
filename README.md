@@ -10,16 +10,6 @@ System-oriented applications & tools.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/2560925365-ux?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/2560925365-ux?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/repositories/2560925365-ux?style=social" alt="Repositories" />
-</p>
-
----
-
 ## 🚀 Projects
 
 <table>
