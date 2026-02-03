@@ -12,31 +12,13 @@ I build tools that bridge technology, media, and research. Currently focused on 
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2560925365-ux&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&card_width=400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2560925365-ux&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&card_width=400)
-
-</div>
-
----
-
 ## Projects
 
-<div align="center">
-
-<a href="https://github.com/2560925365-ux/french-tutor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2560925365-ux&repo=french-tutor&theme=tokyonight&hide_border=true" alt="french-tutor" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/2560925365-ux/Draftcat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2560925365-ux&repo=Draftcat&theme=tokyonight&hide_border=true" alt="Draftcat" />
-</a>
-
-</div>
+| [french-tutor](https://github.com/2560925365-ux/french-tutor) | [Draftcat](https://github.com/2560925365-ux/Draftcat) |
+|:---:|:---:|
+| Daily French learning system with email delivery | Creative writing tool |
+| Python | JavaScript |
+| ![Stars](https://img.shields.io/github/stars/2560925365-ux/french-tutor?style=social) | ![Stars](https://img.shields.io/github/stars/2560925365-ux/Draftcat?style=social) |
 
 ---
 
