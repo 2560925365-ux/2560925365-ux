@@ -8,117 +8,132 @@ System-oriented applications & tools.
 
 </div>
 
+<style>
+/* Project table hover highlight */
+table tr:hover {
+  background-color: #f5f5f5;
+  transition: background-color 0.3s ease;
+}
+
+/* Tech badge hover scale */
+.tech-badge {
+  transition: transform 0.2s ease;
+  display: inline-block;
+}
+.tech-badge:hover {
+  transform: scale(1.1);
+}
+
+/* Contact link hover underline */
+.contact-link {
+  text-decoration: none;
+  color: #0366d6;
+  position: relative;
+}
+.contact-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 0;
+  height: 2px;
+  background-color: #0366d6;
+  transition: width 0.3s ease;
+}
+.contact-link:hover::after {
+  width: 100%;
+}
+
+/* Stats image responsive */
+.stats-img {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+}
+</style>
+
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
 
-<a href="https://github.com/2560925365-ux?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=2560925365-ux&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&card_width=500" alt="GitHub Stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=2560925365-ux&show_icons=true&theme=default&hide_border=true&hide_rank=true&hide_title=true&card_width=500" class="stats-img" alt="GitHub Stats" />
 
-<a href="https://github.com/2560925365-ux?tab=stars">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2560925365-ux&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&card_width=500" alt="Top Languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2560925365-ux&layout=compact&theme=default&hide_border=true&hide_title=true&card_width=500" class="stats-img" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
 <tr>
-<td width="50%">
-
-<a href="https://github.com/2560925365-ux/french-tutor">
-  <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background: #0d1117;">
-    <h3 style="margin: 0 0 8px 0;">french-tutor</h3>
-    <p style="color: #8b949e; margin: 0 0 12px 0; font-size: 14px;">Daily French philosophy learning system with email delivery and audio</p>
-    <div style="display: flex; gap: 12px; align-items: center;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/2560925365-ux/french-tutor?style=social" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/2560925365-ux/french-tutor?style=social" alt="Forks" />
-    </div>
-  </div>
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/2560925365-ux/Draftcat">
-  <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background: #0d1117;">
-    <h3 style="margin: 0 0 8px 0;">Draftcat</h3>
-    <p style="color: #8b949e; margin: 0 0 12px 0; font-size: 14px;">Clean AI text, format documents, export Word</p>
-    <div style="display: flex; gap: 12px; align-items: center;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/github/stars/2560925365-ux/Draftcat?style=social" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/2560925365-ux/Draftcat?style=social" alt="Forks" />
-    </div>
-  </div>
-</a>
-
-</td>
+<td><strong>Project</strong></td>
+<td><strong>Stars</strong></td>
+<td><strong>Forks</strong></td>
+<td><strong>Description</strong></td>
 </tr>
 <tr>
-<td width="50%">
-
-<a href="https://github.com/2560925365-ux/hydra-ocr">
-  <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background: #0d1117;">
-    <h3 style="margin: 0 0 8px 0;">hydra-ocr</h3>
-    <p style="color: #8b949e; margin: 0 0 12px 0; font-size: 14px;">Hybrid OCR service combining PaddleOCR and DeepSeek</p>
-    <div style="display: flex; gap: 12px; align-items: center;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/stars/2560925365-ux/hydra-ocr?style=social" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/2560925365-ux/hydra-ocr?style=social" alt="Forks" />
-    </div>
-  </div>
-</a>
-
-</td>
-<td width="50%">
-
-</td>
+<td><a href="https://github.com/2560925365-ux/french-tutor">french-tutor</a></td>
+<td>1</td>
+<td>0</td>
+<td>Daily French philosophy learning system with email delivery and audio</td>
+</tr>
+<tr>
+<td><a href="https://github.com/2560925365-ux/Draftcat">Draftcat</a></td>
+<td>2</td>
+<td>0</td>
+<td>Clean AI text, format documents, export Word</td>
+</tr>
+<tr>
+<td><a href="https://github.com/2560925365-ux/hydra-ocr">hydra-ocr</a></td>
+<td>0</td>
+<td>0</td>
+<td>Hybrid OCR service combining PaddleOCR and DeepSeek</td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td>
+## Tech Stack
 
 ### Backend
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+
+<span class="tech-badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</span>
 Python - High-level programming language
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<span class="tech-badge">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+</span>
 FastAPI - Modern Python web framework
 
-</td>
-<td>
-
 ### Frontend
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+
+<span class="tech-badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</span>
 JavaScript - Dynamic web programming
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<span class="tech-badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+</span>
 HTML5 - Web structure markup
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<span class="tech-badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</span>
 CSS3 - Styling and layout
-
-</td>
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
-<a href="https://github.com/2560925365-ux?tab=repositories">View More</a> &nbsp;|&nbsp; <a href="mailto:2560925365-ux@users.noreply.github.com">Contact</a>
+<a href="https://github.com/2560925365-ux?tab=repositories" class="contact-link">View More</a>
+&nbsp;|&nbsp;
+<a href="mailto:2560925365-ux@users.noreply.github.com" class="contact-link">Contact</a>
 
 </div>
