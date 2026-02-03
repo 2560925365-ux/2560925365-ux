@@ -26,16 +26,10 @@
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img class="stats-img" src="https://github-readme-stats.vercel.app/api?username=2560925365-ux&show_icons=false&theme=light&hide_border=true&count_private=true" />
-    </td>
-    <td align="center" width="50%">
-      <img class="stats-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2560925365-ux&layout=compact&theme=light&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/2560925365-ux?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/2560925365-ux?style=social" alt="Followers" />
+</p>
 
 ---
 
